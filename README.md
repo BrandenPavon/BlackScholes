@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Black Scholes option pricer project
+    Black Scholes Option Pricing Visualizer Project
 
 <!-- GETTING STARTED -->
 ## Getting Started
