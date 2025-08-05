@@ -16,7 +16,7 @@ Coming soon
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Implement Black Scholes equation
+- [X] Implement Black Scholes equation
 - [ ] Implement Black Scholes greeks
 - [ ] Integrate HTTP
 - [ ] Add visualization 
