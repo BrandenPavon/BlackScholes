@@ -3,7 +3,7 @@
 
     Black Scholes Option Pricing Visualizer Project
 
-    This project visualizes the Black Scholes Option Pricing formula with Heatmaps and allows users to customize their input to the formula.
+    This project visualizes the Black Scholes Option Pricing formula with Heatmaps and allows users to customize their input to the formula. Users can see the visualization through a web client.
 
 <!-- GETTING STARTED -->
 ## Getting Started
