@@ -4,4 +4,4 @@ CFLAGS= -O2 -Wall -march=native -g -pipe -D_FORTIFY_SOURCE=2 -fstack-protector-s
 #CFLAGS= -O2 -Wall -march=native -g -pipe 
 LDFLAGS=
 
-CC=cc
+CC=c++
