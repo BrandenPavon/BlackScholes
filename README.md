@@ -3,7 +3,7 @@
 
     Black Scholes Option Pricing Project
 
-    This project visualizes the Black Scholes Option Pricing formula with Heatmaps and allows users to customize their input to the formula. Users can see the visualization through a command line prompt.
+    This project implements the Black Scholes Option Pricing formula and allows users to customize their input to the formula. Users can see the output through a command line prompt.
 
 <!-- GETTING STARTED -->
 ## Getting Started
