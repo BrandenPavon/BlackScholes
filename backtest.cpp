@@ -1,12 +1,5 @@
 #include <cmath>
-
-struct OptionContract {
-  double spotprice;
-  double strikeprice;
-  double ttm;
-  double riskfreeinterest;
-  double volatility;
-};
+#include "backtest.hpp"
 
 double CallBlackScholesFormula(const OptionContract & OC) {
   double S = OC.spotprice;
