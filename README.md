@@ -19,5 +19,5 @@ Coming soon
 ## Roadmap
 
 - [X] Implement Black Scholes equation
+- [X] Implement Black Scholes user input and output 
 - [ ] Implement Black Scholes greeks
-- [ ] Implement Black Scholes user input and output 
