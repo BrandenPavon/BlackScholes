@@ -7,6 +7,12 @@ struct OptionContract {
   double ttm;
   double riskfreeinterest;
   double volatility;
+  double delta;
+  double gamma;
+  double vega;
+  double theta; 
+  double rho;
+  double epsilon;
 };
 
 double CallBlackScholesFormula(const OptionContract & OC);
