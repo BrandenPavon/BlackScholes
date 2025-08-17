@@ -22,3 +22,7 @@ double PutBlackScholesFormula(const OptionContract & OC) {
   double d2 = d1 - V * std::sqrt(T);
   return K * (0.5*std::erfc(-d1/std::sqrt(2.0))) - S * std::exp(-r*T) * (0.5*std::erfc(-d2/std::sqrt(2.0)));
 }
+
+double calculateGreeks(const OptionContract & OC) {
+
+}
