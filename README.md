@@ -13,7 +13,7 @@ Coming soon
 <!-- USAGE -->
 ## Usage
 
-Coming soon
+
 
 <!-- ROADMAP -->
 ## Roadmap

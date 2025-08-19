@@ -15,8 +15,8 @@ int main(void) {
     std::cout << "Volatility as decimal (e.g 0.05 is 5%) ";
     std::cin >> o.volatility;
 
-    std::cout << CallBlackScholesFormula(o) << std::endl;
-    std::cout << PutBlackScholesFormula(o) << std::endl;
+    std::cout << "Call Price: $" << CallBlackScholesFormula(o) << std::endl;
+    std::cout << "Put Price: $" << PutBlackScholesFormula(o) << std::endl;
   }
   return 0;
 }
