@@ -20,4 +20,5 @@ Coming soon
 
 - [X] Implement Black Scholes equation
 - [X] Implement Black Scholes user input and output 
+- [ ] Implement OOP design
 - [ ] Implement Black Scholes greeks
