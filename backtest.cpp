@@ -1,6 +1,7 @@
 #include <cmath>
 #include "backtest.hpp"
 
+Class BlackScholes;
 double CallBlackScholesFormula(const OptionContract & OC) {
   double S = OC.spotprice;
   double K = OC.strikeprice;
