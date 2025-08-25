@@ -14,8 +14,10 @@ struct OptionContract {
   double rho;
   double epsilon;
 };
-
-double CallBlackScholesFormula(const OptionContract & OC);
-double PutBlackScholesFormula(const OptionContract & OC);
+Class BlackScholes {
+  public:
+    double CallBlackScholesFormula(const OptionContract & OC);
+    double PutBlackScholesFormula(const OptionContract & OC);
+}
 
 #endif

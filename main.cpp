@@ -4,6 +4,7 @@
 int main(void) {
   for (;;) {
     OptionContract o;
+    BlackScholes
     std::cout << "Spot Price: $";
     std::cin >> o.spotprice;
     std::cout << "Strike Price: $";
