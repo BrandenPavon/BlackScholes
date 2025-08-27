@@ -4,7 +4,7 @@
 int main(void) {
   for (;;) {
     OptionContract o;
-    BlackScholes
+    BlackScholes b;
     std::cout << "Spot Price: $";
     std::cin >> o.spotprice;
     std::cout << "Strike Price: $";
@@ -16,8 +16,8 @@ int main(void) {
     std::cout << "Volatility as decimal (e.g 0.05 is 5%) ";
     std::cin >> o.volatility;
 
-    std::cout << "Call Price: $" << CallBlackScholesFormula(o) << std::endl;
-    std::cout << "Put Price: $" << PutBlackScholesFormula(o) << std::endl;
+    std::cout << "Call Price: $" << b.CallBlackScholesFormula(o) << std::endl;
+    std::cout << "Put Price: $" << b.PutBlackScholesFormula(o) << std::endl;
   }
   return 0;
 }
