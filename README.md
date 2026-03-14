@@ -5,6 +5,8 @@
 
     This project implements the Black Scholes Option Pricing formula and allows users to customize their input to the formula. Users can see the output through a command line prompt.
 
+
+    Project postponed for now
 <!-- GETTING STARTED -->
 ## Getting Started
 
